@@ -11,7 +11,7 @@ namespace Tyuiu.DanilovAS.Sprint1.Task2.V13.Test
         [TestMethod]
         public void ValidExpression()
         {
-            // 1 миля = 1.609 км
+            // 1 миля = 1.609 км 
             // 1.609
             // 12 миль = 19.308 км
 
