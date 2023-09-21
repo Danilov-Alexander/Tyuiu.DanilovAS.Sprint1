@@ -11,6 +11,7 @@ namespace Tyuiu.DanilovAS.Sprint1.Task0.V3.Test
         [TestMethod]
         public void TestMethod1()
         {
+            //
             DataService ds = new DataService();
             var res = ds.Calculate();
             Assert.AreEqual(1, res);        }
